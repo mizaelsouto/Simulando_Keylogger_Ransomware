@@ -1,4 +1,8 @@
-# Projeto de Simulação de Malware (Educacional)
+# 🔐 Laboratório Educacional de Análise de Malware & Defesa (Python)
+
+![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![AppSec](https://img.shields.io/badge/Cybersecurity-Malware_Defense_Lab-E11D48?style=for-the-badge)
+![Educational](https://img.shields.io/badge/Finalidade-100%25_Educacional-059669?style=for-the-badge)
 
 Este projeto foi desenvolvido como parte de um desafio educacional para compreender o funcionamento de malwares (Ransomware e Keylogger) e, principalmente, como se defender deles.
 
